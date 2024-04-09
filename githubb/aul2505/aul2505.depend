@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1685054768 source:c:\estrutdados\aul2505\main.c
+	"bibliotecas.h"
+
+1685054740 c:\estrutdados\aul2505\bibliotecas.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"estrutura.h"
+	"f_localizar.h"
+	"f_apresentar.h"
+	"f_inserir.h"
+	"f_remover.h"
+
+1685055797 c:\estrutdados\aul2505\estrutura.h
+
+1685054596 c:\estrutdados\aul2505\f_localizar.h
+
+1685054595 c:\estrutdados\aul2505\f_apresentar.h
+
+1685054598 c:\estrutdados\aul2505\f_inserir.h
+
+1685054596 c:\estrutdados\aul2505\f_remover.h
+
